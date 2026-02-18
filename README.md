@@ -230,6 +230,6 @@ A detailed technical report, including:
 
 is available in this repository.
 
-📘 **Report:** [Project Report](./docs/CRB_Report.pdf)
+📘 **Report:** [Project Report](./docs/)
 
 
